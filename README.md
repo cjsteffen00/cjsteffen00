@@ -1,5 +1,5 @@
 # 💫 About Me:
-Masters In Business Analytics Candidate<br>University of Wisconsin - Madison<br><br>Product/Project Management<br>Data Engineering<br>Data Science<br><br>Interests: Airlines, Tech, Big Data, Sports Science
+Masters In Business Analytics Candidate<br>University of Wisconsin - Madison<br>Data Engineering<br>Data Science<br><br>Interests: Airlines, Tech, Big Data, Sports Science
 
 
 ## 🌐 Socials:
